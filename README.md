@@ -1,3 +1,3 @@
 # myFirstRepository
 This is my first repository- 
-and this is my first change. 
+and now this is my first change. 
